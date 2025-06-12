@@ -1332,8 +1332,8 @@ input:checked+label>span .icon-accept {
         padding: 72px 24px 24px 24px;
     }
 
-    .text-accept-link {
-        display: flex;
+    .privacy-policy {
+        display: unset;
     }
 }
 
